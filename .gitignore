@@ -1,0 +1,10 @@
+*.class
+*.pyc
+
+/logs/
+/temp/
+/data/
+.DS_Store
+.AppleDouble
+.LSOverride
+
