@@ -4,6 +4,7 @@
 /logs/
 /temp/
 /data/
+/.ipynb_checkpoints/
 .DS_Store
 .AppleDouble
 .LSOverride
