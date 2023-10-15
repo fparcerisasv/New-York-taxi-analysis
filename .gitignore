@@ -1,6 +1,6 @@
 *.class
 *.pyc
-
+test.py
 /logs/
 /temp/
 /data/
